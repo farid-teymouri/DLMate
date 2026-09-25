@@ -1,0 +1,24 @@
+featured: false
+
+title:
+  fa: "DLMate"
+  en: "DLMate"
+
+description:
+  fa: "یک ابزار دانلود فایل مبتنی بر Go برای دریافت همزمان فایل‌ها از چندین URL با پشتیبانی از فرمت‌های مختلف."
+  en: "A Go-based file downloader for downloading multiple files from a list of URLs with support for various file formats."
+
+banner: "https://raw.githubusercontent.com/farid-teymouri/DLMate/master/assets/banner.png"
+
+skills:
+  - name: "Go"
+    icon:
+      light: "skill-icons:golang"
+      dark: "skill-icons:golang"
+
+  - name: "GitHub"
+    icon:
+      light: "skill-icons:github-light"
+      dark: "skill-icons:github-dark"
+
+preview: null
